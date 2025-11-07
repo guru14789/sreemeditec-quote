@@ -1,0 +1,13 @@
+
+[
+  {
+    "name": "General Hospital",
+    "address": "123 Health St, Wellness City, 12345",
+    "gst": "22AAAAA0000A1Z5"
+  },
+  {
+    "name": "City Clinic",
+    "address": "456 Cure Ave, Medtown, 67890",
+    "gst": "29BBBBB1111B2Z6"
+  }
+]

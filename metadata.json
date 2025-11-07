@@ -1,0 +1,5 @@
+{
+  "name": "SREE MEDITEC Quotation Generator",
+  "description": "A web-based application to generate, manage, and download professional quotations for SREE MEDITEC, with auto-filling capabilities for clients and products.",
+  "requestFramePermissions": []
+}
