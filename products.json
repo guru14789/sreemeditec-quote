@@ -1,0 +1,17 @@
+
+[
+  {
+    "name": "ECG Machine",
+    "model": "Cardio-100",
+    "features": "12-lead ECG\nColor LCD Screen\nPortable Design",
+    "rate": 75000,
+    "gstRate": 12
+  },
+  {
+    "name": "Patient Monitor",
+    "model": "Vital-500",
+    "features": "5-parameter monitoring\nHigh-resolution display\nArrhythmia analysis",
+    "rate": 120000,
+    "gstRate": 18
+  }
+]

@@ -1,0 +1,22 @@
+
+{
+  "short_name": "SreeMeditec",
+  "name": "SREE MEDITEC Quotation Generator",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#ffffff",
+  "description": "A web-based application to generate, manage, and download professional quotations for SREE MEDITEC, with auto-filling capabilities for clients and products."
+}
